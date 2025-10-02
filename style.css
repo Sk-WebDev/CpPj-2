@@ -1,0 +1,38 @@
+.img {
+    height: 150px;
+    width: 130px;
+    border-radius: 50%;
+}
+
+.brown{
+    background-color: #C2A68C;
+}
+
+.light-brown{
+    background-color: #E6D8C3;
+}
+
+.white{
+    background-color: #F5F5F0;
+}
+
+.purple{
+    color: #8b61c2;
+}
+
+.greyish-black{
+    color: #373941
+}
+
+h2, h4{
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+h1{
+    padding-top: 20px;
+}
+
+.alfa-font{
+    font-family: "alfa slab one", sans-serif;
+}
